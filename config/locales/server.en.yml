@@ -1,0 +1,3 @@
+en:
+  site_settings:
+    discourse_user_created_webhook_enabled: "Enable Discourse user created webhook plugin"

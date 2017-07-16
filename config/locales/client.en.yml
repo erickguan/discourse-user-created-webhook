@@ -1,0 +1,7 @@
+en:
+  admin_js:
+    admin:
+      web_hooks:
+        user_created_event:
+          name: "User Created Event"
+          details: "When there is a new user created."
